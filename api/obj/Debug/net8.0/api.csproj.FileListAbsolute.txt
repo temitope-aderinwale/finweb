@@ -152,3 +152,4 @@ C:\Users\TOLULOPE\OneDrive\Projects\FinWeb\api\bin\Debug\net8.0\Microsoft.Extens
 C:\Users\TOLULOPE\OneDrive\Projects\FinWeb\api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\TOLULOPE\OneDrive\Projects\FinWeb\api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\TOLULOPE\OneDrive\Projects\FinWeb\api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\TOLULOPE\OneDrive\Projects\FinWeb\api\obj\Debug\net8.0\api.sourcelink.json
